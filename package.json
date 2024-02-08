@@ -1,0 +1,24 @@
+{
+  "name": "lib_mgt_system",
+  "version": "1.0.0",
+  "description": "Library Management System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Arpit1903/Lib_Mgt_System)"
+  },
+  "author": "Arpit",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}

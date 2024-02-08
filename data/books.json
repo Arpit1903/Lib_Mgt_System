@@ -1,0 +1,28 @@
+{
+    "books" : [
+        {
+            "id" : "1",
+            "name": "Harry Potter",
+            "author": "JK Rowling",
+            "genre": "fantasy",
+            "price": "500",
+            "publisher": "A"
+        },
+        {
+            "id" : "2",
+            "name": "Everything is Fucked",
+            "author": "Mark Mason",
+            "genre": "Self-improvement",
+            "price": "400",
+            "publisher": "B"
+        },
+        {
+            "id" : "3",
+            "name": "Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "genre": "Mystery",
+            "price": "500",
+            "publisher": "C"
+        }
+    ]
+}
